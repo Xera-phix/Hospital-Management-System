@@ -1,4 +1,5 @@
-Patient Record Management System
+Hospital Management System - OOP Project
+
 A robust system for managing patient records with functionalities for adding, deleting, modifying, searching, and sorting records. Developed using object-oriented design principles and optimized data handling techniques.
 
 Features
