@@ -13,6 +13,7 @@ Design Principles
 Algorithms
 - Sorting: Two different algorithms for efficient data sorting.
 - Searching: Optimized algorithms for fast data retrieval.
+  
 Future Enhancements
 - Add a GUI for better user experience.
 - Integrate a database for secure and scalable storage.
